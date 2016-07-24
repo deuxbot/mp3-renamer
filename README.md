@@ -20,4 +20,5 @@ python main.py musicPath
 ```
 ## TODO
 - Rename folders by album title
+- Remove non-ideal mp3
 
