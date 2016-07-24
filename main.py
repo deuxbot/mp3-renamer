@@ -41,7 +41,7 @@ def analyze(mp3_path):
 
 def main():
     if len(sys.argv) != 2:
-        print 'Usage: python music.py folder'
+        print 'Usage: python main.py musicPath'
         exit(1);
     folder = sys.argv[1]
     global log_file
