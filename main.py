@@ -5,7 +5,6 @@ import sys
 import os
 from os.path import dirname
 
-#folder = '/home/jorge/Música'
 log_file = ''
 non_mp3 = 0
 non_tag = 0
