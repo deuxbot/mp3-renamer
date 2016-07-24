@@ -12,7 +12,7 @@ Find mp3 files recursively and rename them as "Track Number - Song Tittle"
 - Generates log file
 
 ## Libraries
-eye3D
+eyed3
 
 ## Usage
 ```bash
